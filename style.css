@@ -36,7 +36,7 @@ color:aqua;
 
 }
 
-section{
+.flexible-container{
 
 display:flex;
 margin-bottom:150px;
@@ -84,5 +84,35 @@ background-image: url(dream-bg.png);
 background-repeat: no-repeat;
 background-position: right;
 
+}
+
+
+.experince{
+
+background-image: url(exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+
 
 }
+
+.experince-item{
+width:40%;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 20px;
+border-radius: 10px;
+box-shadow: 10px 0px 40px gray;
+border-left:8px solid rgb(202, 216, 13);
+
+}
+
+footer{
+
+text-align: center;
+font-weight: bold;
+
+
+}
+
+
