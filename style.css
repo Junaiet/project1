@@ -12,6 +12,14 @@ p{
 
 font-size:15px;
 text-transform: lowercase;
+padding-right: 5%;
+
+}
+
+.para{
+
+color:brown;
+
 
 }
 
@@ -31,6 +39,7 @@ color:aqua;
 section{
 
 display:flex;
+margin-bottom:150px;
 
 }
 
@@ -68,3 +77,12 @@ width:80%;
 
 }
 
+.dream{
+
+
+background-image: url(dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+
+
+}
